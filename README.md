@@ -56,7 +56,11 @@ sudo apt update && upgrade
 ```
 
 ```
-sudo pkg -i python
+sudo pkg -i python3
+```
+
+```
+git clone https://github.com/an0s-voldigoad/Text-Encryption.git
 ```
 
 ```
