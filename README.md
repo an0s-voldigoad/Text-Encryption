@@ -64,6 +64,10 @@ git clone https://github.com/an0s-voldigoad/Text-Encryption.git
 ```
 
 ```
+cd Text-Encryption
+```
+
+```
 python text_encrypter.py
 ```
 
