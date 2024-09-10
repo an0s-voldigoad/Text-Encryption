@@ -8,6 +8,8 @@
 
 🔹 **Encryption is used to protect data from being stolen, changed, or compromised and works by scrambling data into a secret code that can only be unlocked with a unique digital key.**
 
+<img align = "right" alt="text enc" width="300" src="https://gifdb.com/images/high/hacker-screen-man-typing-coding-s2mdww9dnueglfbr.webp">
+
 
 
 # Explanation:
@@ -58,7 +60,7 @@ sudo pkg -i python
 ```
 
 ```
-python text_enc.py
+python text_encrypter.py
 ```
 
 **IF ANY ISSUE OCCURED, USE PYTHON3**
