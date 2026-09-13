@@ -60,7 +60,7 @@ sudo pkg -i python3
 ```
 
 ```
-git clone https://github.com/an0s-voldigoad/Text-Encryption.git
+git clone https://github.com/MiSFiT-SeCuRiTY/Text-Encryption.git
 ```
 
 ```
